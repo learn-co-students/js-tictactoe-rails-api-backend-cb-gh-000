@@ -1,4 +1,4 @@
-# jQuery Tic-Tac-Toe with a Rails API — Part 1
+you# jQuery Tic-Tac-Toe with a Rails API — Part 1
 
 This lab is the first half of a two-part challenge in which you're tasked with building a browser-based Tic-Tac-Toe game using jQuery and a Rails API.
 
